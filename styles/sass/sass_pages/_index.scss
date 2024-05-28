@@ -380,9 +380,9 @@ section#skills {
 
             .cards {
                 display: flex;
-                
                 align-items: center;
                 gap: $gutter  * 2;
+               
 
                 @include responsive (tabletplus) {
                     flex-wrap: wrap;
@@ -394,6 +394,7 @@ section#skills {
                     text-align: center;
                     background-color: $box-color;
                     padding: 1.7rem 4.2rem 3.7rem 4.2rem;
+                    
 
                     border-top-left-radius: 2.5rem;
                     cursor: pointer;

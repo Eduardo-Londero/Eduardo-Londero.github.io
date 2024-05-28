@@ -144,7 +144,7 @@ const initTypingAnimation = () => {
             })
 
         } else {
-            element.innerHTML = 'Desarrollador Front-End'
+            element.innerHTML = 'Desarrollador Full-Stack'
             const textToArray = element.innerHTML.split('')
             element.innerHTML = ''
 

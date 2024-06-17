@@ -205,6 +205,16 @@ const dataProjects = [
 
     },
     {
+        title: 'Cotizador de Prestamos con React',
+        date: '♥',
+        description: "Es un cotizador de prestamos hecho con react y vite, deployado en netlify.<br> Calcula segun el monto elegido y los meses del prestamo, el monto total a pagar ( a mas plazo mas intereses) y calcula el coste mensual.Los valores se actualizan utilizando el estado de los componentes.",
+        videoSrc: 'videos/cotizador-prestamos-react.mp4',
+        linkedin: 'https://www.linkedin.com/in/eduardo-martin-londero/',
+        repository: '#',
+        site: 'https://cotizador-prestamos-con-react-edu.netlify.app/'
+
+    },
+    {
         title: 'Agencia de Viajes',
         date: '♥',
         description: "Proyecto de una agencia de viajes realizado con pug , bootstrap, node/express y mysql.<br>Deployado en render.com. <br>La base de datos esta subida en filess.io",

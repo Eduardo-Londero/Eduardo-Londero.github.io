@@ -224,6 +224,16 @@ const dataProjects = [
         site: 'https://agenciaviajenode-cb0b.onrender.com/'
 
     },
+    {
+        title: 'Administrador de Pacientes',
+        date: '♥',
+        description: "Proyecto de un administrador de pacientes realizado con MERN STACK , React, node/express y MongoDB.<br>Front-end deployado en vercel y Backend deployado en render.com <br>",
+        videoSrc: 'videos/agenciaviajesnode.mp4',
+        linkedin: 'https://www.linkedin.com/in/eduardo-martin-londero/',
+        repository: '#',
+        site: 'https://apv-frontend-lake.vercel.app/'
+
+    },
 ]
 
 // Open Modal
